@@ -1,0 +1,2 @@
+# tribehotel
+Website Responsive
